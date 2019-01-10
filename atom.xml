@@ -390,20 +390,22 @@
   </entry>
   
   <entry>
-    <title>huoniu</title>
+    <title>货牛商家版</title>
     <link href="https://7xw.github.io/2016/huoniu/"/>
     <id>https://7xw.github.io/2016/huoniu/</id>
     <published>2016-12-10T03:34:36.000Z</published>
-    <updated>2019-01-10T03:50:04.545Z</updated>
+    <updated>2019-01-10T06:19:29.660Z</updated>
     
-    <content type="html"><![CDATA[<p>了解业务</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="第1个操碎了心的设计项目"><a href="#第1个操碎了心的设计项目" class="headerlink" title="第1个操碎了心的设计项目"></a>第1个操碎了心的设计项目</h2><ul><li>业务逻辑</li><li>线框图</li><li>UI设计</li><li>设计规范</li><li>总结</li></ul><p>–</p><h3 id="业务逻辑"><a href="#业务逻辑" class="headerlink" title="业务逻辑"></a>业务逻辑</h3><p>货牛是一款以“互联网+”货运为核心，通过询价，促成司机和商家达成交易的平台。<br>流程如下：<br><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-structure.png" alt="huoniu-structure"></p><p>通过流程图，可以知道，较为复杂且关键的部分是询价、货物运输。</p><h3 id="线框图"><a href="#线框图" class="headerlink" title="线框图"></a>线框图</h3><p>结合业务逻辑、流程，得出相应的线框图，（如下）：<br><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-flow.png" alt="huoniu-flo"></p><h3 id="UI设计"><a href="#UI设计" class="headerlink" title="UI设计"></a>UI设计</h3><ul><li>颜色<br>结合logo、业务等方面的因素，选取暖橙色作为app的主色系，并且将司机端的蓝色应用其中，力求形成视觉呼应、视觉统一。</li></ul><p><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-info01-1.jpg" alt="huoniu-info01"></p><ul><li>字体<br>鉴于安卓手机型号不同，系统要求也不同，因此，字体应用主要遵循系统自带字体。</li></ul><ul><li><p>图标<br>考虑到商家版用户群体特征，因此图标设计主要是采用简洁、清晰的风格。<br><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-icon.png" alt="huoniu-icon"></p></li><li><p>提示框<br>为了达到产品情感化目的，同时宣传品牌文化，我将产品标识物运用到了提示框和缺省页中。</p></li></ul><p><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-default.png" alt="huoniu-default"></p><p><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-default02-1.png" alt="huoniu-default02"></p><h3 id="设计规范"><a href="#设计规范" class="headerlink" title="设计规范"></a>设计规范</h3><p>为了方便以后组织的设计工作和开发工作，我在设计过程中，逐步地把一些设计样式，如：字号、间距、列表宽高比、button等单独列出来，并将它们组件化。这样，对于开发的同事而言，一些通用、常见的组件不必再像先前那样“目测”、“估计”，查阅文档即可，大大地提高了工作效率。</p><p>主要使用axure、photoshop这两个工具进行设计。<br><img src="https://suool-bolg.b0.upaiyun.com/2019/01/10/huoniu-component.png" alt="huoniu-component"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>完整地经历了产品流程，对设计有了更近一步地理解。美中不足的是，项目管理方面经验欠缺，所以导致有些文件在对接的时候欠缺条理性。不过我相信，随着经验增加和学习，一定会越来越好的。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;了解业务&lt;/p&gt;
-
+        &lt;h2 id=&quot;第1个操碎了心的设计项目&quot;&gt;&lt;a href=&quot;#第1个操碎了心的设计项目&quot; class=&quot;headerlink&quot; title=&quot;第1个操碎了心的设计项目&quot;&gt;&lt;/a&gt;第1个操碎了心的设计项目&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;业务逻辑&lt;/li&gt;
+&lt;li&gt;线框图&lt;/li&gt;
+&lt;
       
     
     </summary>
